@@ -1,5 +1,3 @@
-# Project_1
-programming project
 import csv
 open('FullData.csv',newline='') 
 cvsfile:
