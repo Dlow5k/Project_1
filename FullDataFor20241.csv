@@ -1,5 +1,4 @@
 House of Commons General Election 2024 results by constituency,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-[Note 1] [Note 2],,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ONS ID,ONS region ID,Constituency name,Region name,Country name,Constituency type,Member first name,Member surname,Member gender,Result,First party,Second party,Electorate,Valid votes,Invalid votes,Majority,Con,Lab,LD,RUK,Green,SNP,PC,DUP,SF,SDLP,UUP,APNI,All other candidates,Of which other winner
 W07000081,W92000004,Aberafan Maesteg,Wales,Wales,County,Stephen,Kinnock,Male,Lab hold,Lab,RUK,"72,580","35,755",79,"10,354","2,903","17,838",916,"7,484","1,094",0,"4,719",0,0,0,0,0,801,0
 S14000060,S92000003,Aberdeen North,Scotland,Scotland,Burgh,Kirsty,Blackman,Female,SNP hold,SNP,Lab,"75,925","42,095",115,"1,760","5,881","12,773","2,583","3,781","1,275","14,533",0,0,0,0,0,0,"1,269",0
@@ -89,7 +88,7 @@ E14001126,E12000009,Bridgwater,South West,England,County,Ashley,Fox,Male,Con hol
 E14001127,E12000003,Bridlington and The Wolds,Yorkshire and The Humber,England,County,Charlie,Dewhirst,Male,Con hold,Con,Lab,"74,438","42,937",140,"3,125","14,846","11,721","3,097","10,350","1,595",0,0,0,0,0,0,0,"1,328",0
 E14001128,E12000003,Brigg and Immingham,Yorkshire and The Humber,England,County,Martin,Vickers,Male,Con hold,Con,Lab,"73,099","42,508",168,"3,243","15,905","12,662","1,442","10,594","1,905",0,0,0,0,0,0,0,0,0
 E14001129,E12000008,Brighton Kemptown and Peacehaven,South East,England,Borough,Chris,Ward,Male,Lab hold,Lab,Con,"68,784","40,686",557,"9,663","8,230","17,893","3,949",0,"7,997",0,0,0,0,0,0,0,"2,617",0
-E14001130,E12000008,Brighton Pavilion,South East,England,Borough,Siƒn,Berry,Female,Green hold,Green,Lab,"74,786","52,363",209,"14,290","3,975","14,519","1,604","2,836","28,809",0,0,0,0,0,0,0,620,0
+E14001130,E12000008,Brighton Pavilion,South East,England,Borough,SiÂƒn,Berry,Female,Green hold,Green,Lab,"74,786","52,363",209,"14,290","3,975","14,519","1,604","2,836","28,809",0,0,0,0,0,0,0,620,0
 E14001131,E12000009,Bristol Central,South West,England,Borough,Carla,Denyer,Female,Green gain from Lab,Green,Lab,"62,735","43,365",165,"10,407","1,998","14,132","1,162","1,338","24,539",0,0,0,0,0,0,0,196,0
 E14001132,E12000009,Bristol East,South West,England,Borough,Kerry,McCarthy,Female,Lab hold,Lab,Green,"75,917","46,109",845,"6,606","6,435","20,748","2,713",0,"14,142",0,0,0,0,0,0,0,"2,071",0
 E14001133,E12000009,Bristol North East,South West,England,Borough,Damien,Egan,Male,Lab hold,Lab,Green,"70,076","41,989",160,"11,167","6,216","19,004","1,964","5,418","7,837",0,0,0,0,0,0,0,"1,550",0
@@ -257,7 +256,7 @@ E14001254,E12000008,Gravesham,South East,England,County,Lauren,Sullivan,Female,L
 E14001255,E12000003,Great Grimsby and Cleethorpes,Yorkshire and The Humber,England,Borough,Melanie,Onn,Female,Lab gain from Con,Lab,RUK,"76,157","36,619",97,"4,803","8,269","15,336","1,036","10,533","1,115",0,0,0,0,0,0,0,330,0
 E14001256,E12000006,Great Yarmouth,East of England,England,County,Rupert,Lowe,Male,RUK gain from Con,RUK,Lab,"73,317","40,748",121,"1,426","10,034","12,959","1,102","14,385","1,736",0,0,0,0,0,0,0,532,0
 E14001257,E12000007,Greenwich and Woolwich,London,England,Borough,Matthew,Pennycook,Male,Lab hold,Lab,Green,"73,073","42,719",221,"18,366","4,863","23,999","3,865","3,305","5,633",0,0,0,0,0,0,0,"1,054",0
-E14001258,E12000008,Guildford,South East,England,County,Z”e,Franklin,Female,LD gain from Con,LD,Con,"70,662","48,294",162,"8,429","14,508","3,931","22,937","4,395","2,268",0,0,0,0,0,0,0,255,0
+E14001258,E12000008,Guildford,South East,England,County,ZÂ”e,Franklin,Female,LD gain from Con,LD,Con,"70,662","48,294",162,"8,429","14,508","3,931","22,937","4,395","2,268",0,0,0,0,0,0,0,255,0
 E14001259,E12000007,Hackney North and Stoke Newington,London,England,Borough,Diane,Abbott,Female,Lab hold,Lab,Green,"77,812","40,959",254,"15,080","3,457","24,355","1,562","1,283","9,275",0,0,0,0,0,0,0,"1,027",0
 E14001260,E12000007,Hackney South and Shoreditch,London,England,Borough,Meg,Hillier,Female,Lab hold,Lab,Green,"78,277","41,701",213,"14,737","2,076","24,724","1,996","1,601","9,987",0,0,0,0,0,0,0,"1,317",0
 E14001261,E12000005,Halesowen,West Midlands,England,Borough,Alex,Ballinger,Male,Lab gain from Con,Lab,Con,"68,549","38,578",142,"4,364","10,659","15,023","2,261","8,484","2,151",0,0,0,0,0,0,0,0,0
@@ -401,7 +400,7 @@ E14001379,E12000001,Newcastle upon Tyne North,North East,England,Borough,Catheri
 E14001380,E12000005,Newcastle-under-Lyme,West Midlands,England,County,Adam,Jogee,Male,Lab gain from Con,Lab,Con,"67,815","39,618",158,"5,069","10,923","15,992","1,987","8,865","1,851",0,0,0,0,0,0,0,0,0
 W07000104,W92000004,Newport East,Wales,Wales,County,Jessica,Morden,Female,Lab hold,Lab,RUK,"76,683","38,531",154,"9,009","6,487","16,370","2,045","7,361","2,092",0,"2,239",0,0,0,0,0,"1,937",0
 W07000105,W92000004,Newport West and Islwyn,Wales,Wales,County,Ruth,Jones,Female,Lab hold,Lab,RUK,"75,785","41,951",163,"8,868","6,710","17,409","2,087","8,541","2,078",0,"3,529",0,0,0,0,0,"1,597",0
-N05000011,N92000002,Newry and Armagh,Northern Ireland,Northern Ireland,County,D ire,Hughes,Male,SF hold,SF,SDLP,"78,244","45,942",294,"15,493",83,0,0,0,0,0,0,"5,900","22,299","6,806","3,175","2,692","4,987",0
+N05000011,N92000002,Newry and Armagh,Northern Ireland,Northern Ireland,County,DÂ ire,Hughes,Male,SF hold,SF,SDLP,"78,244","45,942",294,"15,493",83,0,0,0,0,0,0,"5,900","22,299","6,806","3,175","2,692","4,987",0
 E14001381,E12000009,Newton Abbot,South West,England,County,Martin,Wrigley,Male,LD gain from Con,LD,Con,"73,885","47,992",158,"2,246","12,955","7,115","15,201","8,494","2,083",0,0,0,0,0,0,0,"2,144",0
 E14001382,E12000001,Newton Aycliffe and Spennymoor,North East,England,County,Alan,Strickland,Male,Lab gain from Con,Lab,RUK,"72,215","39,846",79,"8,839","8,195","18,394","1,491","9,555","1,701",0,0,0,0,0,0,0,510,0
 E14001383,E12000003,Normanton and Hemsworth,Yorkshire and The Humber,England,County,Jon,Trickett,Male,Lab hold,Lab,RUK,"75,645","36,349",137,"6,662","4,995","17,275","1,319","10,613","2,147",0,0,0,0,0,0,0,0,0
@@ -621,7 +620,7 @@ S14000106,S92000003,West Dunbartonshire,Scotland,Scotland,County,Douglas,McAllis
 E14001576,E12000007,West Ham and Beckton,London,England,Borough,James,Asser,Male,Lab hold,Lab,NIP,"78,964","36,348",149,"9,254","3,781","16,434","1,606","2,800","3,897",0,0,0,0,0,0,0,"7,830",0
 E14001577,E12000002,West Lancashire,North West,England,County,Ashley,Dalton,Female,Lab hold,Lab,Con,"74,081","44,200",224,"13,625","8,680","22,305","2,043","7,909","3,263",0,0,0,0,0,0,0,0,0
 E14001578,E12000006,West Suffolk,East of England,England,County,Nick,Timothy,Male,Con hold,Con,Lab,"77,145","46,161",173,"3,247","15,814","12,567","4,284","9,623","2,910",0,0,0,0,0,0,0,963,0
-N05000018,N92000002,West Tyrone,Northern Ireland,Northern Ireland,County,àrfhlaith,Begley,Female,SF hold,SF,DUP,"74,269","43,695",262,"15,917",91,0,0,0,0,0,0,"6,794","22,711","5,821","2,683","2,287","3,308",0
+N05000018,N92000002,West Tyrone,Northern Ireland,Northern Ireland,County,Ã rfhlaith,Begley,Female,SF hold,SF,DUP,"74,269","43,695",262,"15,917",91,0,0,0,0,0,0,"6,794","22,711","5,821","2,683","2,287","3,308",0
 E14001579,E12000005,West Worcestershire,West Midlands,England,County,Harriett,Baldwin,Female,Con hold,Con,LD,"79,246","54,687",191,"6,547","19,783","8,335","13,236","7,902","5,068",0,0,0,0,0,0,0,363,0
 E14001580,E12000002,Westmorland and Lonsdale,North West,England,County,Tim,Farron,Male,LD gain from Con,LD,Con,"72,029","49,533",115,"21,472","9,589","2,306","31,061","4,842","1,486",0,0,0,0,0,0,0,249,0
 E14001581,E12000009,Weston-super-Mare,South West,England,County,Daniel,Aldridge,Male,Lab gain from Con,Lab,Con,"71,396","42,390",143,"4,409","11,901","16,310","3,756","7,735","2,688",0,0,0,0,0,0,0,0,0
@@ -648,21 +647,7 @@ E14001600,E12000008,Wycombe,South East,England,County,Emma,Reynolds,Female,Lab g
 E14001601,E12000005,Wyre Forest,West Midlands,England,County,Mark,Garnier,Male,Con hold,Con,Lab,"77,329","45,158",137,812,"14,489","13,677","2,809","9,682","2,443",0,0,0,0,0,0,0,"2,058",0
 E14001602,E12000002,Wythenshawe and Sale East,North West,England,Borough,Mike,Kane,Male,Lab hold,Lab,RUK,"77,767","39,132",142,"14,610","5,392","20,596","1,985","5,986","4,133",0,0,0,0,0,0,0,"1,040",0
 E14001603,E12000009,Yeovil,South West,England,County,Adam,Dance,Male,LD gain from Con,LD,Con,"79,918","48,952",109,"12,268","11,497","3,002","23,765","7,677","2,403",0,0,0,0,0,0,0,608,0
-W07000112,W92000004,Ynys M“n,Wales,Wales,County,Llinos,Medi,Female,PC gain from Con,PC,Con,"53,141","32,628",79,637,"9,953","7,619",439,"3,223",604,0,"10,590",0,0,0,0,0,200,0
+W07000112,W92000004,Ynys MÂ“n,Wales,Wales,County,Llinos,Medi,Female,PC gain from Con,PC,Con,"53,141","32,628",79,637,"9,953","7,619",439,"3,223",604,0,"10,590",0,0,0,0,0,200,0
 E14001604,E12000003,York Central,Yorkshire and The Humber,England,Borough,Rachael,Maskell,Female,Lab hold,Lab,Con,"79,557","43,323",228,"19,154","5,383","24,537","3,051","4,721","5,185",0,0,0,0,0,0,0,446,0
 E14001605,E12000003,York Outer,Yorkshire and The Humber,England,County,Luke,Charters,Male,Lab gain from Con,Lab,Con,"76,228","51,106",184,"9,391","13,770","23,161","5,496","5,912","2,212",0,0,0,0,0,0,0,555,0
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-"[Note 1] Candidates standing as ""Independent"" will not have an Electoral Commission party ID. ",,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-[Note 2] This file contains data structured as an Excel table for accessibility reasons. If you want to disable this  right click on the data  click ?Table?  and then ?Convert to range?.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Available from ,https://commonslibrary.parliament.uk/research-briefings/cbp-10009,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Title,HoC GE2024 results by constituency,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Description,Complete election results by constituency for the 2024 General Election. ,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Authors,Carl Baker  Anna Buck  Richard Cracknell  Emily Davis  Louie Pollock  Michael Smethurst  Robert Brook,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Last updated,Thursday  12th September 2024,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Citation,cbp-10009,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Publisher,House of Commons Library,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Publisher URL,https://commonslibrary.parliament.uk,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Licence,Open Parliament Licence,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Licence URL,https://www.parliament.uk/site-information/copyright-parliament/open-parliament-licence/,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Contact,papers@parliament.uk,,,,,,,,,,,,,,,,,,,,,,,,,,,,
