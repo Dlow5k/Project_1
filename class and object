@@ -1,0 +1,16 @@
+
+class Vote:
+    
+    def __init__(self,Constituency,Region,Country,Results):
+        self.Constituency = Constituency
+        self.Region = Region
+        self.Contry = Country
+        self.Results = Results
+
+    
+    def process(self):
+        print("Your vote is processing, please wait one moment")
+
+    def finish(self):
+        print("your vote has been fully prossed into the system")
+
